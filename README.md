@@ -23,7 +23,7 @@ Nonlinear PDEs often arise in mathematical models across physics, biology, and e
 - Based on references like Polyanin, Galaktionov, and Titov's methodologies
 
 ## 🔗 PDF Document  
-👉 Separation of Variables and Exact Solutions to Nonlinear PDEs.pdf
+👉 (https://github.com/MarwanElmorshdy/Graduation-Research-Project-Generalized-Separation-of-Variables-in-Nonlinear-PDEs/blob/73adc96856a9a742eba5eaac1bee74a55173aefa/Separation%20of%20Variables%20and%20Exact%20Solutions%20to%20Nonlinear%20PDEs.pdf)
 
 ## 📅 Completion Date  
 July 2024  
