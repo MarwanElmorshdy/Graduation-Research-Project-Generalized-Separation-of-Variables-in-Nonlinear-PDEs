@@ -1,4 +1,4 @@
-# 🎓 Graduation Research Project  
+# Research Project  
 ### Separation of Variables and Exact Solutions to Nonlinear PDEs  
 Faculty of Science – Alexandria University  
 Supervised by: Dr. Farid Hamza
